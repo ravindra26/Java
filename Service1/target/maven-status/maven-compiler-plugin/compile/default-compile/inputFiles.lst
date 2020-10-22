@@ -1,0 +1,12 @@
+/home/sensen/NetBeansProjects/Service1/src/main/java/com/service1/controllers/ImagesController.java
+/home/sensen/NetBeansProjects/Service1/src/main/java/com/service1/dao/BaseDAOImpl.java
+/home/sensen/NetBeansProjects/Service1/src/main/java/com/service1/controllers/TestController.java
+/home/sensen/NetBeansProjects/Service1/src/main/java/com/service1/controllers/LoginController.java
+/home/sensen/NetBeansProjects/Service1/src/main/java/com/service1/dao/UserDAOImpl.java
+/home/sensen/NetBeansProjects/Service1/src/main/java/com/service1/service/ImageService.java
+/home/sensen/NetBeansProjects/Service1/src/main/java/com/service1/controllers/BaseController.java
+/home/sensen/NetBeansProjects/Service1/src/main/java/com/Service1/utils/UserAccessUtils.java
+/home/sensen/NetBeansProjects/Service1/src/main/java/com/service1/pojo/ImageCompressionPacket.java
+/home/sensen/NetBeansProjects/Service1/src/main/java/com/Service1/exceptions/BadAuthException.java
+/home/sensen/NetBeansProjects/Service1/src/main/java/com/service1/mongo/documents/User.java
+/home/sensen/NetBeansProjects/Service1/src/main/java/com/service1/interceptors/UserCheckInterceptor.java

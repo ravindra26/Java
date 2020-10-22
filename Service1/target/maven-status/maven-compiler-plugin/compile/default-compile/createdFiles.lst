@@ -1,0 +1,12 @@
+com/service1/controllers/BaseController.class
+com/service1/controllers/TestController.class
+com/service1/controllers/LoginController.class
+com/service1/controllers/ImagesController.class
+com/service1/interceptors/UserCheckInterceptor.class
+com/service1/mongo/documents/User.class
+com/service1/dao/UserDAOImpl.class
+com/Service1/exceptions/BadAuthException.class
+com/Service1/utils/UserAccessUtils.class
+com/service1/dao/BaseDAOImpl.class
+com/service1/pojo/ImageCompressionPacket.class
+com/service1/service/ImageService.class
